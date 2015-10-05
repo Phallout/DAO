@@ -1,0 +1,23 @@
+{
+    "name": "Phallout/ServiceLayer",
+    "description": "Phalcon service layer",
+    "type": "library",
+    "require": {
+        "ext-phalcon": ">=2.0"
+    },
+    "authors": [
+        {
+            "name": "Kachit",
+            "email": "kachit@yandex.ru",
+            "homepage": "https://github.com/kachit/",
+            "role": "Developer"
+        }
+    ],
+    "license" : "MIT",
+
+    "autoload": {
+        "psr-4": {
+          "Phallout\\ServiceLayer\\": "src/"
+        }
+    }
+}
