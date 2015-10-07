@@ -1,6 +1,6 @@
 {
     "name": "Phallout/ServiceLayer",
-    "description": "Phalcon service layer",
+    "description": "Phalcon data service layer",
     "type": "library",
     "require": {
         "ext-phalcon": ">=2.0"
