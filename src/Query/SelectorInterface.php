@@ -1,6 +1,6 @@
 <?php
 /**
- * ConditionInterface
+ * Selector interface
  *
  * @author Kachit
  * @package Phallout\ServiceLayer\Query
